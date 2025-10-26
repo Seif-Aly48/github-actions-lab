@@ -15,5 +15,4 @@ jobs:
           echo "---"
           python --version
           python -c "print('Hello from Python in GitHub Actions!')"
-          python -c "f
           echo "---"
